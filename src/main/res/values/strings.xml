@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">TP1</string>
+    <string name="SayHi">Say Hi</string>
+    <string name="displayMessage">what is your name?</string>
+</resources>
